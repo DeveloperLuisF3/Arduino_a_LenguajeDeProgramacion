@@ -78,3 +78,65 @@ La función siguiente devuelve un número entero, **delayVal()** se utiliza para
         return v;   // devuelve el valor final
     }
 ```
+
+
+## {} entre llaves
+
+Las llaves sirven para definir el principio y el final de un bloque de instrucciones. Se utilizan para los bloques de programación setup (), loop (), if..., etc.
+
+
+```arduino
+    type funcion ()
+    {
+        estamentos;
+    }
+```
+
+
+Una llave de apertura "**{**" siempre debe ir seguida de una llave de cierre "**}**", si no es así el programa dará errores.
+
+El entorno de programación de Arduino incluye una herramienta de gran utilidad para comprobar el total de llaves. Sólo tienes que hacer click en el punto de inserción de una llave abierta e inmediatamente se marca el correspondiente cierre de ese bloque (llave cerrada).
+
+
+## ; punto y coma
+
+El punto y coma "**;**" se utiliza para separar instrucciones en el lenguaje de programación de Arduino. También se utiliza para seperar elementos en una instrucción de tipo "bucle for".
+
+
+```arduino
+    int x = 13; // declara la variable 'x' como tipo entero de valor 13
+```
+
+
+**Nota:** Olvidarse de poner fin a una línea con un punto y coma se traducirá en un error de compilación. El texto de error puede ser obvio, y se referirá a la falta de una coma, o puede que no. Si se produce un error raro y de difícil detección lo primero que debemos hacer es comprobar que los puntos y comas están colocados al final de las instrucciones.
+
+
+## /*...*/ bloque de comentarios
+
+Los bloques de comentarios, o multi-línea de comentarios, son áreas de texto ignorados por el programa que se utilizan para las descripciones del código o comentarios que ayudan a comprender el programa. Comienza con /* y termina con */ y pueden abarcar varias líneas.
+
+
+```arduino
+    /* esto es un bloque de comentario
+       no se debe olvidar cerrar los comentarios
+       estos deben estar equilibrados
+    */
+```
+
+
+Debido a que los comentarios son ignorados por el programa y no ocupan espacio en la memoria de Arduino pueden ser utilizados con generosidad y también pueden utilizarse para "comentar" bloques de código con el propósito de anotar informaciones para depuración.
+
+**Nota:** Dentro de una misma línea de un bloque de comentarios no se puede escribir otro bloque de comentarios (usando /*...*/)
+
+
+## // línea de comentarios
+
+Una línea de comentarios empieza con **//** y termina con la siguiente línea de código. Al igual que los comentarios de bloque, los de línea son ignorados por el programa y no ocupan espacio en la memoria.
+
+
+```arduino
+    // esto es un comentario
+```
+
+
+Una línea de comentario se utiliza a menudo después de una instrucción, para proporcionar más información acerca de lo que hace esta o para recordarla más adelante.
