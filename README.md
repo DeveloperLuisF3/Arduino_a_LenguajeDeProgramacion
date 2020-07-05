@@ -23,3 +23,10 @@
     * variables
     * declaración de variables
     * variable scope
+
+3. Tipos de datos
+    * byte
+    * int
+    * long
+    * float
+    * arrays
