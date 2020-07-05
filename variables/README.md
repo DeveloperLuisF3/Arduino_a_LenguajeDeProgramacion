@@ -57,7 +57,7 @@ El siguiente ejemplo muestra cómo declarar a unos tipos diferentes de variables
 
 
 ```arduino
-    int value;  // 'value' es visible para cualquier función
+    int value;                      // 'value' es visible para cualquier función
     void setup ()
     {
         // no es necesario configurar
@@ -65,10 +65,10 @@ El siguiente ejemplo muestra cómo declarar a unos tipos diferentes de variables
 
     void loop ()
     {
-        for (int i = 0; i < 20;)    // 'i' soloes visible
-        {   // dentro del bucle for
+        for (int i = 0; i < 20;)    // 'i' solo es visible
+        {                           // dentro del bucle for
             i ++;
         } 
-        float f;    // 'f' es visible solo
-    }   // dentro del bucle
+        float f;                    // 'f' es visible solo
+    }                               // dentro del bucle
 ```
