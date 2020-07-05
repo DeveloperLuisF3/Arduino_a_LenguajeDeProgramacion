@@ -1,4 +1,4 @@
-# Estructura
+# 1. Estructura
 
 ## Estructura de un programa
 
