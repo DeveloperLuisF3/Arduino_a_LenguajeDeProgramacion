@@ -81,6 +81,6 @@ Utilizando un bucle *for*, el contador comienza en cero 0 y escribe el valor que
     }
 ```
 
-[Arduino img](../vid/array.mp4 "Arduino")
+[Array video](../vid/array.mp4 "Arduino")
 
-[Simulación del código de Arduino](https://www.tinkercad.com/things/7wLa3cdEXFn-arrays/editel "Arduino simulación del código")
+[Simulación del código de Arduino](https://www.tinkercad.com/things/7wLa3cdEXFn "Arduino simulación del código")
