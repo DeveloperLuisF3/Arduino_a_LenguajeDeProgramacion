@@ -30,3 +30,9 @@
     * long
     * float
     * arrays
+
+4. Aritmética
+    * aritmética
+    * asignaciones compuestas
+    * operadores de comparación
+    * operadores lógicos
