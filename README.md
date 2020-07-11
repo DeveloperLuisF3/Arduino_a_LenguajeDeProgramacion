@@ -42,3 +42,10 @@
     * cierto/falso
     * alto/bajo
     * entrada/salida
+
+6. Control de flujo
+    * if
+    * if... else
+    * for
+    * while
+    * do... while
