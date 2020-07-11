@@ -36,3 +36,9 @@
     * asignaciones compuestas
     * operadores de comparación
     * operadores lógicos
+
+5. Constantes
+    * constantes
+    * cierto/falso
+    * alto/bajo
+    * entrada/salida
