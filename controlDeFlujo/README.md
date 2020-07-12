@@ -17,7 +17,7 @@ En el ejemplo anterior se compara una variable con un valor, el cual puede ser u
 
 ## if... else (si... sino..)
 
-**if... else** viene a ser una estructura que se ejecuta en respuesta a la idea "**si esto no se cumple haz esto otro**". Por ejemplo, si se desea probar una entrada digital, y hacer una cosa si la entrada fue alto o hacer otra cosa si la entrada es baja, usted escribiría que de esta manera:
+**if... else** viene a ser una estructura que se ejecuta en respuesta a la idea "**si esto no se cumple haz esto otro**". Por ejemplo, si se desea probar una entrada digital, y hacer una cosa si la entrada fue alto o hacer otra cosa si la entrada es baja, usted escribiría de esta manera:
 
 ```arduino
     if (inputPin == HIGH)   // si el valor de la entrada inputPin es alto
