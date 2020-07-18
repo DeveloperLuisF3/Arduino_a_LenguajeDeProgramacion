@@ -18,34 +18,33 @@
     * ; punto y coma
     * /*...*/ bloque de comentarios
     * // linea de comentarios
-
 2. Variables
     * variables
     * declaración de variables
     * variable scope
-
 3. Tipos de datos
     * byte
     * int
     * long
     * float
     * arrays
-
 4. Aritmética
     * aritmética
     * asignaciones compuestas
     * operadores de comparación
     * operadores lógicos
-
 5. Constantes
     * constantes
     * cierto/falso
     * alto/bajo
     * entrada/salida
-
 6. Control de flujo
     * if
     * if... else
     * for
     * while
     * do... while
+7. E/S digitales
+    * pinMode (pin, mode)
+    * digitalRead (pin)
+    * digitalWrite (pin, value)
