@@ -59,6 +59,6 @@ El siguiente ejemplo lee el estado de un pulsador conectado a una entrada digita
     }
 ```
 
-[Array video](../vid/E_S-digitales.mp4 "Arduino")
+[E/S digitales video](../vid/esDigitales.mp4 "Arduino")
 
 [Simulación Arduino](https://www.tinkercad.com/things/1RWFJk72QnE "arduino tinkencard")
