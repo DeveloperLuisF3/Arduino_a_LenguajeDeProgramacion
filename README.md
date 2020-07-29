@@ -9,7 +9,7 @@
 
 ### Contenido
 
-1. Estructura
+1. [Estructura](https://github.com/DeveloperLuisF3/Arduino_a_LenguajeDeProgramacion/tree/master/estructura "estructura")
     * estructura
     * setup ()
     * loop ()
@@ -48,3 +48,6 @@
     * pinMode (pin, mode)
     * digitalRead (pin)
     * digitalWrite (pin, value)
+8. E/S analógicas
+    * analogRead (pin)
+    * analogWrite (pin, value)
